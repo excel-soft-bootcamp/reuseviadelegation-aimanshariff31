@@ -1,0 +1,13 @@
+C:\Users\aiman.shariff\source\repos\SmartPhoneApp\SmartPhoneApp\bin\Debug\netcoreapp3.1\SmartPhoneApp.exe
+C:\Users\aiman.shariff\source\repos\SmartPhoneApp\SmartPhoneApp\bin\Debug\netcoreapp3.1\SmartPhoneApp.deps.json
+C:\Users\aiman.shariff\source\repos\SmartPhoneApp\SmartPhoneApp\bin\Debug\netcoreapp3.1\SmartPhoneApp.runtimeconfig.json
+C:\Users\aiman.shariff\source\repos\SmartPhoneApp\SmartPhoneApp\bin\Debug\netcoreapp3.1\SmartPhoneApp.runtimeconfig.dev.json
+C:\Users\aiman.shariff\source\repos\SmartPhoneApp\SmartPhoneApp\bin\Debug\netcoreapp3.1\SmartPhoneApp.dll
+C:\Users\aiman.shariff\source\repos\SmartPhoneApp\SmartPhoneApp\bin\Debug\netcoreapp3.1\SmartPhoneApp.pdb
+C:\Users\aiman.shariff\source\repos\SmartPhoneApp\SmartPhoneApp\obj\Debug\netcoreapp3.1\SmartPhoneApp.csprojAssemblyReference.cache
+C:\Users\aiman.shariff\source\repos\SmartPhoneApp\SmartPhoneApp\obj\Debug\netcoreapp3.1\SmartPhoneApp.AssemblyInfoInputs.cache
+C:\Users\aiman.shariff\source\repos\SmartPhoneApp\SmartPhoneApp\obj\Debug\netcoreapp3.1\SmartPhoneApp.AssemblyInfo.cs
+C:\Users\aiman.shariff\source\repos\SmartPhoneApp\SmartPhoneApp\obj\Debug\netcoreapp3.1\SmartPhoneApp.csproj.CoreCompileInputs.cache
+C:\Users\aiman.shariff\source\repos\SmartPhoneApp\SmartPhoneApp\obj\Debug\netcoreapp3.1\SmartPhoneApp.dll
+C:\Users\aiman.shariff\source\repos\SmartPhoneApp\SmartPhoneApp\obj\Debug\netcoreapp3.1\SmartPhoneApp.pdb
+C:\Users\aiman.shariff\source\repos\SmartPhoneApp\SmartPhoneApp\obj\Debug\netcoreapp3.1\SmartPhoneApp.genruntimeconfig.cache
